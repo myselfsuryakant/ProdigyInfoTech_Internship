@@ -54,6 +54,5 @@ Created a bar chart to visualize the distribution of a categorical variable (age
 ---
 
 **Author:**
-[Your Full Name]
-[Your LinkedIn Profile URL (Optional)]
-[Your Portfolio/Website URL (Optional)]
+Suryakant Acharya
+https://www.linkedin.com/in/myselfsuryakant/
