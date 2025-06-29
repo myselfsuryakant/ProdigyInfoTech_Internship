@@ -1,11 +1,13 @@
 # Prodigy InfoTech Data Science Internship Tasks
 
-This repository contains the completed tasks for my Data Science Internship with Prodigy InfoTech. Each task is organized into its own dedicated folder.
+This repository contains the completed tasks for my Data
+Science Internship with Prodigy InfoTech. Each task is organized into
+its own dedicated folder.
 
 ## Table of Contents
 
 * [Task 01: Data Visualization](#task-01-data-visualization)
-* [Task 02: [Name of Task 2]](#task-02-name-of-task-2)
+* [Task 02: Data Cleaning and Exploratory Data Analysis (EDA)](#task-02-data-cleaning-and-exploratory-data-analysis-eda)
 * [Task 03: [Name of Task 3]](#task-03-name-of-task-3)
 * [Task 04: [Name of Task 4]](#task-04-name-of-task-4)
 
