@@ -17,9 +17,9 @@ This repository contains the completed tasks for my Data Science Internship with
 Created a bar chart to visualize the distribution of a categorical variable (age groups) in a hypothetical population. This task demonstrates fundamental data visualization skills using Python libraries `matplotlib` and `seaborn`.
 
 **Files:**
-* `Task_01_DataVisualization/age_distribution_chart.py`: Python script to generate the bar chart.
-* `Task_01_DataVisualization/age_distribution_chart.png`: Generated bar chart image.
-* `Task_01_DataVisualization/README.md`: Detailed explanation for Task 01.
+* `PRODIGY_DS_01/age_distribution_chart.py`: Python script to generate the bar chart.
+* `PRODIGY_DS_01/age_distribution_chart.png`: Generated bar chart image.
+* `PRODIGY_DS_01/README.md`: Detailed explanation for Task 01.
 
 ---
 
@@ -29,11 +29,11 @@ Created a bar chart to visualize the distribution of a categorical variable (age
 Performed comprehensive data cleaning and exploratory data analysis on the Kaggle Titanic dataset. Explored variable relationships, identified missing data, and uncovered patterns related to passenger survival.
 
 **Files:**
-* `Task_02_DataAnalysis_EDA/titanic_eda.py`: Python script containing data cleaning and EDA code.
-* `Task_02_DataAnalysis_EDA/train.csv`: Training dataset used for analysis.
-* `Task_02_DataAnalysis_EDA/test.csv`: Test dataset.
-* `Task_02_DataAnalysis_EDA/*.png`: Generated visualization plots (e.g., `sex_survival_barplot.png`).
-* `Task_02_DataAnalysis_EDA/README.md`: Detailed documentation for Task 02.
+* `PRODIGY_DS_02/titanic_eda.py`: Python script containing data cleaning and EDA code.
+* `PRODIGY_DS_02/train.csv`: Training dataset used for analysis.
+* `PRODIGY_DS_02/test.csv`: Test dataset.
+* `PRODIGY_DS_02/*.png`: Generated visualization plots (e.g., `sex_survival_barplot.png`).
+* `PRODIGY_DS_02/README.md`: Detailed documentation for Task 02.
 
 ---
 
