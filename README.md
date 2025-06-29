@@ -23,13 +23,17 @@ Created a bar chart to visualize the distribution of a categorical variable (age
 
 ---
 
-## Task 02: [Name of Task 2]
+## Task 02: Data Cleaning and Exploratory Data Analysis (EDA)
 
 **Description:**
-[Brief description of Task 2]
+Performed comprehensive data cleaning and exploratory data analysis on the Kaggle Titanic dataset. Explored variable relationships, identified missing data, and uncovered patterns related to passenger survival.
 
 **Files:**
-* [List relevant files for Task 2]
+* `Task_02_DataAnalysis_EDA/titanic_eda.py`: Python script containing data cleaning and EDA code.
+* `Task_02_DataAnalysis_EDA/train.csv`: Training dataset used for analysis.
+* `Task_02_DataAnalysis_EDA/test.csv`: Test dataset.
+* `Task_02_DataAnalysis_EDA/*.png`: Generated visualization plots (e.g., `sex_survival_barplot.png`).
+* `Task_02_DataAnalysis_EDA/README.md`: Detailed documentation for Task 02.
 
 ---
 
