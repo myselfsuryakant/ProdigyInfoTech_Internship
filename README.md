@@ -9,7 +9,7 @@ its own dedicated folder.
 * [Task 01: Data Visualization](#task-01-data-visualization)
 * [Task 02: Data Cleaning and Exploratory Data Analysis (EDA)](#task-02-data-cleaning-and-exploratory-data-analysis-eda)
 * [Task 03: Decision Tree Classifier](#task-03-decision-tree-classifier)
-* [Task 04: [Name of Task 4]](#task-04-name-of-task-4)
+* [Task 04: Sentiment Analysis of Twitter Data](#task-04-sentiment-analysis-of-twitter-data)
 
 ---
 
@@ -48,13 +48,15 @@ Performed comprehensive data cleaning and exploratory data analysis on the Kaggl
 
 ---
 
-## Task 04: [Name of Task 4]
-
-**Description:**
-[Brief description of Task 4]
-
-**Files:**
-* [List relevant files for Task 4]
+## Task 04: Sentiment Analysis of Twitter Data
+**Description**: Analyzed sentiment patterns in the Twitter Entity Sentiment Analysis dataset to understand public opinions towards specific entities.
+**Files**:
+- `PRODIGY_DS_04/sentiment_analysis.py`: Python script for data loading, preprocessing, analysis, and visualizations.
+- `PRODIGY_DS_04/twitter_training.csv`, `PRODIGY_DS_04/twitter_validation.csv`: Datasets.
+- `PRODIGY_DS_04/sentiment_distribution.png`: Bar plot of sentiment distribution.
+- `PRODIGY_DS_04/entity_sentiment.png`: Stacked bar plot of sentiment for top entities.
+- `PRODIGY_DS_04/positive_wordcloud.png`: Word cloud for positive sentiment.
+- `PRODIGY_DS_04/README.md`: Task documentation.
 
 ---
 
