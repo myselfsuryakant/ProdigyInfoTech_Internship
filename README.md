@@ -39,13 +39,12 @@ Performed comprehensive data cleaning and exploratory data analysis on the Kaggl
 
 ---
 
-## Task 03: [Name of Task 3]
-
-**Description:**
-[Brief description of Task 3]
-
-**Files:**
-* [List relevant files for Task 3]
+## Task 03: Decision Tree Classifier
+**Description**: Built a Decision Tree Classifier to predict customer subscriptions using the Bank Marketing dataset.
+**Files**:
+- `PRODIGY_DS_03/decision_tree_classifier.py`: Python script for preprocessing, training, and evaluation.
+- `PRODIGY_DS_03/bank-additional-full.csv`: Dataset.
+- `PRODIGY_DS_03/README.md`: Task documentation.
 
 ---
 
