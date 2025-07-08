@@ -8,7 +8,7 @@ its own dedicated folder.
 
 * [Task 01: Data Visualization](#task-01-data-visualization)
 * [Task 02: Data Cleaning and Exploratory Data Analysis (EDA)](#task-02-data-cleaning-and-exploratory-data-analysis-eda)
-* [Task 03: [Name of Task 3]](#task-03-name-of-task-3)
+* [Task 03: Decision Tree Classifier](#task-03-decision-tree-classifier)
 * [Task 04: [Name of Task 4]](#task-04-name-of-task-4)
 
 ---
