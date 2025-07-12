@@ -62,5 +62,7 @@ Performed comprehensive data cleaning and exploratory data analysis on the Kaggl
 
 **Author:**
 Suryakant Acharya
+
 **Linkedin**: https://www.linkedin.com/in/myselfsuryakant/
+
 **Twitter/X**: https://twitter.com/myselfsuryakant/
